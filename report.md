@@ -22,6 +22,3 @@
 * JavaScript: The game's logic is written in JavaScript for handling user interactions and determining the game's outcome.
 * HTML: The structure of the game is defined using HTML elements.
 * CSS: The game's visual styling is accomplished with CSS.
-
-# Contributions
-Contributions to this project are welcome! If you find any bugs or have ideas for improvements, please create an issue or submit a pull request.
